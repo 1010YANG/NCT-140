@@ -18,10 +18,17 @@ form,
 #forth-p {
     background-color: rgb(239, 238, 238);
 }
-body{
+
+body {
     background-image: url(V.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    
+
+}
+
+#span-1,
+#span-2,
+#span-3 {
+    border-style: groove;
 }
