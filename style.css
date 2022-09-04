@@ -1,14 +1,14 @@
 p,
 form,
-#input-x {
+#input-4 {
     color: rgb(186, 105, 186);
     font-family: 'Nunito', sans-serif;
     text-align: center;
 }
 
 #first-p,
-#input-x {
-    font-size: 20px;
+#input-4 {
+    font-size: 30px;
 
 
 }
@@ -27,8 +27,8 @@ body {
 
 }
 
-#span-1,
-#span-2,
-#span-3 {
+#input-1,
+#input-2,
+#input-3 {
     border-style: groove;
 }
