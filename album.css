@@ -4,6 +4,7 @@
   margin-bottom: 0;
   background-color: #fff;
 }
+
 @media (min-width: 768px) {
   .jumbotron {
     padding-top: 6rem;
@@ -34,7 +35,7 @@ footer p {
 
 
 body,
-div{
+div {
   background-image: url(WechatIMG483.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -43,25 +44,22 @@ div{
 }
 
 .color-1,
-p
-{
+p {
   color: #E1E668;
 }
 
-.color-2{
+.color-2 {
   color: ghostwhite;
 }
 
-.button-size{
-  height: 35px;
-  
+.button-size {
+  height: 40px;
+
 }
 
 img {
-  display: block;
   max-width: 100%;
   height: auto;
   width: auto\9;
   width: auto;
 }
-
