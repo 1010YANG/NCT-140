@@ -1,0 +1,59 @@
+.title {
+    position: relative;
+    top: 120px;
+    color: #E1E668;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    
+}
+
+body {
+    background-image: url(WechatIMG483.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.item-1 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-family: 'Cairo';
+
+}
+
+.login {
+    position: relative;
+    top: 20%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    color: #E1E668;
+    width: 42%;
+    padding: 0px;
+    border: 10px solid #E1E668;
+    border-style: dashed;
+    
+    
+
+
+}
+label{
+
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+    
+
+}
+
+.login-2{
+    text-align: center;
+}
+
+
+
+
+
+
