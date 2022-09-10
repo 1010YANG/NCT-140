@@ -1,0 +1,108 @@
+.title {
+    position: relative;
+    top: 120px;
+    color: #E1E668;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+
+}
+
+
+.item-1 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-family: 'Cairo';
+
+}
+
+.login {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    color: #E1E668;
+    width: 42%;
+    padding: 0px;
+    border: 10px solid #E1E668;
+    border-style: dashed;
+
+}
+
+label {
+
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+
+}
+
+.login-2 {
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+@media (min-width: 768px) {
+    .jumbotron {
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+    }
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer p {
+    margin-bottom: .25rem;
+}
+
+
+* {
+    background-image: url(WechatIMG483.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.color-1,
+p {
+    color: #E1E668;
+}
+
+.color-2 {
+    color: ghostwhite;
+}
+
+.button-size {
+    height: 40px;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+    width: auto;
+}
